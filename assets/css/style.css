@@ -464,11 +464,11 @@ section .container {
     position: relative;
   }
   .rod {
-    background: url("https://i.ibb.co/GtJYstf/rodz.png") center center no-repeat;
+    background: url("https://i.ibb.co/zf1qDMQ/RODNEM.png") center center no-repeat;
     background-size: 300px;
   }
   .rod:hover {
-    background: url("https://i.ibb.co/GtJYstf/rodz.png") left center no-repeat;
+    background: url("https://i.ibb.co/zf1qDMQ/RODNEM.png") left center no-repeat;
     background-size: 650px;
   }
   .rod:hover h6 {
